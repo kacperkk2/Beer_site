@@ -1,0 +1,45 @@
+.k-tile-info{
+	width: 770px;
+	height: 150px;
+	background-color: #AD7129;
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 5px solid #DEDEDE;
+}
+
+.k-tile-info-top{
+	width: 760px;
+	height: 50px;
+	border-bottom: 1px dashed #DEDEDE;
+	line-height: 50px;
+	font-size: 40px;
+	padding-left: 10px;
+}
+
+.k-tile-info-bottom{
+	width: 770px;
+	height: 100px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 16px;
+}
+
+.k-tile-img{
+	width: 170px;
+	height: 150px;
+	background-color: #AD7129;
+	float: left;
+	margin-bottom: 10px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 5px solid #DEDEDE;
+	font-size: 110px;
+	line-height: 150px;
+}

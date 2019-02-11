@@ -1,0 +1,78 @@
+.styl-tile{
+	width: 970px;
+	height: 200px;
+	background-color: #AD7129;
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 5px solid #DEDEDE;
+}
+
+.styl-img{
+	width: 140px; /* 160 */
+	height: 180px; 
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.styl-info{
+	width: 590px; /* 640 */
+	height: 180px;
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.styl-info-top{
+	width: 580px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 40px;
+	font-weight: bold;
+	border-bottom: 1px dashed #DEDEDE;
+	padding-left: 10px;
+}
+
+.styl-info-bottom{
+	width: 570px;
+	height: 110px;
+	padding: 10px;
+	font-size: 18px;
+	line-height: 18px;
+}
+
+.styl-button{
+	float: left;
+	width: 174px; /* 200 */
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 72px;
+	margin-bottom: 72px;
+	text-align: center;
+	line-height: 50px;
+	letter-spacing: 1px;
+	font-size: 20px;
+	border: 3px solid #DEDEDE; 
+}
+
+.styl-button:hover{
+	background-color: #DEDEDE;
+	color: #303030;
+}
+
+.styl-photo{
+	width: 140px;
+	height: 180px; 
+}
+
+
+
+

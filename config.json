@@ -1,0 +1,76 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "627abcdb627cb1789e009c08e2678ef9",
+      "css": "twitter",
+      "code": 61593,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8e04c98c8f5ca0a035776e3001ad2638",
+      "css": "facebook",
+      "code": 61594,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a9862b9d5197886c1ad693ecd7120b31",
+      "css": "youtube",
+      "code": 61799,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "77886ff217450e06c8ffb7c88cb41e8b",
+      "css": "beer",
+      "code": 59400,
+      "src": "maki"
+    },
+    {
+      "uid": "c2e02247804b8372740de0b76311f1ad",
+      "css": "beer-1",
+      "code": 59393,
+      "src": "typicons"
+    },
+    {
+      "uid": "890bcc8897cce868f6ee65cadadde036",
+      "css": "beer-2",
+      "code": 61692,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3a900d0e9f43f5409211f62bec557379",
+      "css": "emo-beer",
+      "code": 59403,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9f7e588c66cfd6891f6f507cf6f6596b",
+      "css": "phone",
+      "code": 59394,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "212ab54aac31030950fec3e2448ebee9",
+      "css": "money",
+      "code": 59395,
+      "src": "modernpics"
+    },
+    {
+      "uid": "22cfc7af2c4f158b37317c65c92b48c2",
+      "css": "location",
+      "code": 59396,
+      "src": "elusive"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+.s-b-tile{
+	width: 970px;
+	height: 200px;
+	background-color: #AD7129;
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 5px solid #DEDEDE;
+}
+
+.s-b-img{
+	width: 230px; /* 250 */
+	height: 180px; 
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+	background-color: #000000;
+}
+
+.s-b-info{
+	width: 500px; /* 640 */
+	height: 180px;
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.s-b-info-top{
+	width: 490px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 40px;
+	font-weight: bold;
+	border-bottom: 1px dashed #DEDEDE;
+	padding-left: 10px;
+}
+
+.s-b-info-bottom{
+	width: 480px;
+	height: 110px;
+	padding: 10px;
+	font-size: 18px;
+	line-height: 18px;
+}
+
+.s-b-button{
+	float: left;
+	width: 174px; /* 200 */
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 72px;
+	margin-bottom: 72px;
+	text-align: center;
+	line-height: 50px;
+	letter-spacing: 1px;
+	font-size: 20px;
+	border: 3px solid #DEDEDE; 
+}
+
+.s-b-photo{
+	width: 230px;
+	height: 180px; 
+}
+
+a.s-b-link{
+	text-decoration: none;
+	color: #DEDEDE;
+	display: block;
+}
+
+a.s-b-link:hover{
+	background-color: #DEDEDE;
+	color: #303030;
+}
+
+
+

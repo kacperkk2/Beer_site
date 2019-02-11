@@ -1,0 +1,36 @@
+.c-tile{
+	width: 220px;
+	height: 200px;
+	background-color: #AD7129;
+	float: left;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 5px solid #DEDEDE;
+}
+
+.c-photo{
+	width: 220px;
+	height: 200px;
+}
+
+.c-tile-top{
+	width: 210px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 40px;
+	font-weight: bold;
+	font-style: italic;
+	border-bottom: 1px dashed #DEDEDE;
+	padding-left: 10px;
+}
+
+.c-tile-info{
+	width: 200px;
+	height: 130px;
+	padding: 10px;
+	font-size: 15px;
+	line-height: 15px;
+	text-align: justify;
+}
